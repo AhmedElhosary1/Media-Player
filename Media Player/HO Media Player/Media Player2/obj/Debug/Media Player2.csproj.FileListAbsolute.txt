@@ -1,0 +1,53 @@
+E:\Work\Finished\Media Player\Media Player2\Media Player2\bin\Debug\Media Player2.exe.config
+E:\Work\Finished\Media Player\Media Player2\Media Player2\bin\Debug\Media Player2.exe
+E:\Work\Finished\Media Player\Media Player2\Media Player2\bin\Debug\Media Player2.pdb
+E:\Work\Finished\Media Player\Media Player2\Media Player2\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Work\Finished\Media Player\Media Player2\Media Player2\obj\Debug\Media_Player2.Form1.resources
+E:\Work\Finished\Media Player\Media Player2\Media Player2\obj\Debug\Media_Player2.Properties.Resources.resources
+E:\Work\Finished\Media Player\Media Player2\Media Player2\obj\Debug\Media Player2.csproj.GenerateResource.Cache
+E:\Work\Finished\Media Player\Media Player2\Media Player2\obj\Debug\Media Player2.exe
+E:\Work\Finished\Media Player\Media Player2\Media Player2\obj\Debug\Media Player2.pdb
+E:\Work\Finished\Media Player\Media Player2\Media Player2\obj\Debug\Media Player2.csprojResolveAssemblyReference.cache
+E:\Work\Finished\Media Player\Media Player2\Media Player2\bin\Debug\Interop.WMPLib.dll
+E:\Work\Finished\Media Player\Media Player2\Media Player2\bin\Debug\AxInterop.WMPLib.dll
+E:\Work\Finished\Media Player\Media Player2\Media Player2\obj\Debug\Interop.WMPLib.dll
+E:\Work\Finished\Media Player\Media Player2\Media Player2\obj\Debug\AxInterop.WMPLib.dll
+E:\Work\Finished\Media Player\Media Player2\Media Player2\obj\Debug\Media Player2.csproj.ResolveComReference.cache
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\bin\Debug\Media Player2.exe.config
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Interop.WMPLib.dll
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\AxInterop.WMPLib.dll
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.csproj.ResolveComReference.cache
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.exe
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.pdb
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\bin\Debug\Media Player2.exe.manifest
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\bin\Debug\Media Player2.application
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\bin\Debug\Media Player2.exe
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\bin\Debug\Media Player2.pdb
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\bin\Debug\Interop.WMPLib.dll
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\bin\Debug\AxInterop.WMPLib.dll
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.csprojResolveAssemblyReference.cache
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media_Player2.Form1.resources
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media_Player2.Properties.Resources.resources
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.csproj.GenerateResource.Cache
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.exe.manifest
+E:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.application
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\bin\Debug\Media Player2.exe.config
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\bin\Debug\Media Player2.exe.manifest
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\bin\Debug\Media Player2.application
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\bin\Debug\Media Player2.exe
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\bin\Debug\Media Player2.pdb
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\bin\Debug\Interop.WMPLib.dll
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\bin\Debug\AxInterop.WMPLib.dll
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.csprojAssemblyReference.cache
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Interop.WMPLib.dll
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\AxInterop.WMPLib.dll
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.csproj.ResolveComReference.cache
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media_Player2.Form1.resources
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media_Player2.Properties.Resources.resources
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.csproj.GenerateResource.cache
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.csproj.CoreCompileInputs.cache
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.exe.manifest
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.application
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.csproj.CopyComplete
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.exe
+D:\Work\Finished\Media Player\HO Media Player\Media Player2\obj\Debug\Media Player2.pdb
